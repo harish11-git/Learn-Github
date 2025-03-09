@@ -21,5 +21,9 @@ git add file_name  ----> It is to add (stage) the file in working directory to t
 
 git add .  ----> It will add all the new/modified files in repo.
 
-git commit -m "added new commands in Readme file"
+git commit -m "Description"  ----> To commit the changes with informative description. 
 
+*** Push Command ***
+--- It is to push the changes commited locally/PC (Otherwise changes will not be refleced in Git repo)
+--- Upload local repo content to remote repo.
+git push origin main  ----> To upload the commited changes to remote repo.
