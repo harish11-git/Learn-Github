@@ -19,11 +19,11 @@ git pull origin main  ----> It is used to refresh/pull latest changes from repo.
 ****** ADD & Commit ***** <br>
 git add file_name  ----> It is to add (stage) the file in working directory to the git staging area. (The step before you do commit). <br>
 
-git add .  ----> It will add all the new/modified files in repo.
+git add .  ----> It will add all the new/modified files in repo. <br>
 
-git commit -m "Description"  ----> To commit the changes with informative description. 
+git commit -m "Description"  ----> To commit the changes with informative description.  <br>
 
-*** Push Command ***
---- It is to push the changes commited locally/PC (Otherwise changes will not be refleced in Git repo)
---- Upload local repo content to remote repo.
-git push origin main  ----> To upload the commited changes to remote repo.
+*** Push Command *** <br> 
+--- It is to push the changes commited locally/PC (Otherwise changes will not be refleced in Git repo) <br>
+--- Upload local repo content to remote repo. <br>
+git push origin main  ----> To upload the commited changes to remote repo. <br>
